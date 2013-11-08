@@ -3,6 +3,7 @@
  * and the database. On successfull completion you will have a variable $db 
  * that is your database connection ready to use.
  */
+ //Test commit
 
 //include("/usr/local/uvm-inc/lkkim.inc");
 $debug=false;
